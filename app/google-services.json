@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113077377364",
+    "project_id": "twisterobl-77bd6",
+    "storage_bucket": "twisterobl-77bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113077377364:android:5f825080c1e4ec1c6510c1",
+        "android_client_info": {
+          "package_name": "com.example.twister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113077377364-bnnfjar4ffp4k7rafufdpv7gg9c1ljq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO75lTNAEymLeq03LvuglPIaqZCSP0JuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113077377364-bnnfjar4ffp4k7rafufdpv7gg9c1ljq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
